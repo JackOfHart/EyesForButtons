@@ -41,8 +41,14 @@ public class HitDetector : MonoBehaviour
     private void ColorIncrease()
     {
         Color color = Shell.color;
-        color.a += colorIncrease;
-        Shell.color = color;
+        if (color.a <= .99)
+        {
+            color.a += colorIncrease;
+            Shell.color = color;
+        }
+        
+        //else wait and load next section
+
     }
 
     private void SetColor()

@@ -17,7 +17,9 @@ public class DeathObjectManager : MonoBehaviour
     void Start()
     {
         sizeX = this.GetComponent<Renderer>().bounds.size.x;
-        sizeY = this.GetComponent<Renderer>().bounds.size.y;
+        sizeY = this.GetComponent<Renderer>().bounds.size.z;
+
+        Debug.Log("x position " + sizeX + " " + "y size " + sizeY);
 
         //start timer
         SetTimer();

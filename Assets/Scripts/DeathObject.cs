@@ -8,8 +8,9 @@ public class DeathObject : MonoBehaviour
     // Start is called before the first frame update
 
     private float DeathObjectSpeed;
-    private float DeathObjectSpeedMin = 15f;
-    private float DeathObjectSpeedMax = 30f;
+    private float DeathObjectSpeedMin = 5f;
+    private float DeathObjectSpeedMax = 15f;
+    private float ObjectScaleSpeed = 2f;
     
 
     void Start()
@@ -17,14 +18,18 @@ public class DeathObject : MonoBehaviour
         //some tween for falling
         DeathObjectSpeed = Random.Range(DeathObjectSpeedMin, DeathObjectSpeedMax);
 
-        this.transform.DOMoveY(-10,DeathObjectSpeed);
+        Sequence mySequence = DOTween.Sequence();
+
+        mySequence.Append(this.transform.DOMoveY(0.5f,DeathObjectSpeed));
+
+        mySequence.Append(this.transform.DOScale(2f, ObjectScaleSpeed));
     }
 
     private void Update()
     {
-        if(this.transform.position.y <= -5f)
+        if(this.transform.position.y <= 0.5f)
         {
-            Destroy(this.gameObject);
+            //Destroy(this.gameObject);
         }
     }
 }
