@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Scenes/GoodWorld.unity
+- path: Assets/Scenes/BadWorld.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0

@@ -1,6 +1,8 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using DG.Tweening;
+using UnityEngine.InputSystem;
 
 public class HitDetector : MonoBehaviour
 {
@@ -9,6 +11,8 @@ public class HitDetector : MonoBehaviour
     private RaycastHit hit;
     public float RayCastDistance;
     public float CircumSize = 5f;
+    public GameObject Parent;
+    public float PlayerSlowdown;
 
     // Start is called before the first frame update
     void Start()
@@ -45,8 +49,12 @@ public class HitDetector : MonoBehaviour
         {
             color.a += colorIncrease;
             Shell.color = color;
+
+            Parent.transform.DOShakePosition(1f);
+            Parent.GetComponent<StarterAssets.FirstPersonController>().MoveSpeed -= PlayerSlowdown;
         }
         
+
         //else wait and load next section
 
     }
