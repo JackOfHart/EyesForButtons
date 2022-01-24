@@ -353,3 +353,279 @@ Received Import Request.
 Start importing Assets/3DModels/Falling Shards/uploads_files_3349086_Crystal_Set_3/Crystal_10/crystal_10.blend using Guid(a56aee0f98c2242298d339d89e36fbd8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '15a0c0304721964fd6725dd4eec16d37') in 0.005073 seconds 
   Import took 0.009873 seconds .
 
+========================================================================
+Received Import Request.
+  Time since last request: 385.900591 seconds.
+  path: Assets/Scenes/BadWorld.unity
+  artifactKey: Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/BadWorld.unity using Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '39255b0d00464c1c2c528b9456be41c0') in 0.002019 seconds 
+  Import took 0.011898 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003694 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.47 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.596 seconds
+Domain Reload Profiling:
+	ReloadAssembly (2597ms)
+		BeginReloadAssembly (272ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (33ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (112ms)
+		EndReloadAssembly (2224ms)
+			LoadAssemblies (207ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (384ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (58ms)
+			SetupLoadedEditorAssemblies (1246ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (15ms)
+				SetLoadedEditorAssemblies (2ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (160ms)
+				ProcessInitializeOnLoadAttributes (1037ms)
+				ProcessInitializeOnLoadMethodAttributes (30ms)
+				AfterProcessingInitializeOnLoad (1ms)
+				EditorAssembliesLoaded (1ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (34ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.42 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2022 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 204.7 MB.
+System memory in use after: 204.8 MB.
+
+Unloading 23 unused Assets to reduce memory usage. Loaded Objects now: 2565.
+Total: 2.453708 ms (FindLiveObjects: 0.143375 ms CreateObjectMapping: 0.041459 ms MarkObjects: 2.246958 ms  DeleteObjects: 0.020833 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 114.021406 seconds.
+  path: Assets/Scenes/GoodWorld.unity
+  artifactKey: Guid(cc3abbdc4d2eecd428fbdbcb829dba52) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/GoodWorld.unity using Guid(cc3abbdc4d2eecd428fbdbcb829dba52) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6b6755c8326125fa8644138d0793fe8c') in 0.020751 seconds 
+  Import took 0.023434 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002871 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.69 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.533 seconds
+Domain Reload Profiling:
+	ReloadAssembly (2534ms)
+		BeginReloadAssembly (231ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (33ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (89ms)
+		EndReloadAssembly (2202ms)
+			LoadAssemblies (182ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (376ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (57ms)
+			SetupLoadedEditorAssemblies (1262ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (15ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (160ms)
+				ProcessInitializeOnLoadAttributes (1052ms)
+				ProcessInitializeOnLoadMethodAttributes (31ms)
+				AfterProcessingInitializeOnLoad (1ms)
+				EditorAssembliesLoaded (1ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (34ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.54 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2022 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 205.0 MB.
+System memory in use after: 205.1 MB.
+
+Unloading 22 unused Assets to reduce memory usage. Loaded Objects now: 2567.
+Total: 2.505166 ms (FindLiveObjects: 0.123958 ms CreateObjectMapping: 0.043500 ms MarkObjects: 2.313625 ms  DeleteObjects: 0.023083 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 1057.232169 seconds.
+  path: Assets/rusted_painted_metal.sbsar
+  artifactKey: Guid(33e8e6a62265244069473667d1f5a147) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/rusted_painted_metal.sbsar using Guid(33e8e6a62265244069473667d1f5a147) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cad54a7a40b37c6b30d49d95a3770b90') in 0.186333 seconds 
+  Import took 0.202926 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.197717 seconds.
+  path: Assets/Scenes/Claire.unity
+  artifactKey: Guid(c667391b6f4bb48bdae228d100f82124) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Claire.unity using Guid(c667391b6f4bb48bdae228d100f82124) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd7eb6e55e6a653fa7ff43bb58409ea51') in 0.002273 seconds 
+  Import took 0.006536 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003621 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 41.87 ms, found 6 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+[ScriptCompilation] NOT recompiling all scripts because this is an import worker process. Reason to compile was: Define symbols changed
+Fallback handler could not load library /Applications/Unity/Hub/Editor/2020.3.26f1/Unity.app/Contents/Frameworks/Mono/lib/libdl
+Fallback handler could not load library /Applications/Unity/Hub/Editor/2020.3.26f1/Unity.app/Contents/Frameworks/Mono/lib/libAssets/Allegorithmic/Plugins/Substance/Substance Engine/Editor/SubstanceLink/libsubstance_link.dylib
+Fallback handler could not load library /Applications/Unity/Hub/Editor/2020.3.26f1/Unity.app/Contents/Frameworks/Mono/lib/libAssets/Allegorithmic/Plugins/Substance/Substance Engine/Editor/SubstanceLink/libsubstance_link.dylib
+Fallback handler could not load library /Applications/Unity/Hub/Editor/2020.3.26f1/Unity.app/Contents/Frameworks/Mono/lib/libAssets/Allegorithmic/Plugins/Substance/Substance Engine/Editor/SubstanceLink/libsubstance_link.dylib.so
+Fallback handler could not load library /Applications/Unity/Hub/Editor/2020.3.26f1/Unity.app/Contents/Frameworks/Mono/lib/libAssets/Allegorithmic/Plugins/Substance/Substance Engine/Editor/SubstanceLink/libsubstance_link.dylib.bundle
+Fallback handler could not load library /Applications/Unity/Hub/Editor/2020.3.26f1/Unity.app/Contents/Frameworks/Mono/lib/libAssets/Allegorithmic/Plugins/Substance/Substance Engine/Editor/SubstanceLink/libsubstance_link.dylib
+Fallback handler could not load library /Applications/Unity/Hub/Editor/2020.3.26f1/Unity.app/Contents/Frameworks/Mono/lib/libAssets/Allegorithmic/Plugins/Substance/Substance Engine/Editor/SubstanceLink/libsubstance_link.dylib
+Fallback handler could not load library /Applications/Unity/Hub/Editor/2020.3.26f1/Unity.app/Contents/Frameworks/Mono/lib/libAssets/Allegorithmic/Plugins/Substance/Substance Engine/Editor/SubstanceLink/libsubstance_link.dylib.so
+Fallback handler could not load library /Applications/Unity/Hub/Editor/2020.3.26f1/Unity.app/Contents/Frameworks/Mono/lib/libAssets/Allegorithmic/Plugins/Substance/Substance Engine/Editor/SubstanceLink/libsubstance_link.dylib.bundle
+Fallback handler could not load library /Applications/Unity/Hub/Editor/2020.3.26f1/Unity.app/Contents/Frameworks/Mono/lib/libAssets/Allegorithmic/Plugins/Substance/Substance Engine/Editor/SubstanceLink/libsubstance_link.dylib
+Fallback handler could not load library /Applications/Unity/Hub/Editor/2020.3.26f1/Unity.app/Contents/Frameworks/Mono/lib/libAssets/Allegorithmic/Plugins/Substance/Substance Engine/Editor/SubstanceLink/libsubstance_link.dylib
+Fallback handler could not load library /Applications/Unity/Hub/Editor/2020.3.26f1/Unity.app/Contents/Frameworks/Mono/lib/libAssets/Allegorithmic/Plugins/Substance/Substance Engine/Editor/SubstanceLink/libsubstance_link.dylib.so
+Fallback handler could not load library /Applications/Unity/Hub/Editor/2020.3.26f1/Unity.app/Contents/Frameworks/Mono/lib/libAssets/Allegorithmic/Plugins/Substance/Substance Engine/Editor/SubstanceLink/libsubstance_link.dylib.bundle
+Fallback handler could not load library /Applications/Unity/Hub/Editor/2020.3.26f1/Unity.app/Contents/Frameworks/Mono/lib/libAssets/Allegorithmic/Plugins/Substance/Substance Engine/Editor/SubstanceLink/libsubstance_link.dylib
+Fallback handler could not load library /Applications/Unity/Hub/Editor/2020.3.26f1/Unity.app/Contents/Frameworks/Mono/lib/libAssets/Allegorithmic/Plugins/Substance/Substance Engine/Editor/SubstanceLink/libsubstance_link.dylib
+Fallback handler could not load library /Applications/Unity/Hub/Editor/2020.3.26f1/Unity.app/Contents/Frameworks/Mono/lib/libAssets/Allegorithmic/Plugins/Substance/Substance Engine/Editor/SubstanceLink/libsubstance_link.dylib.so
+Fallback handler could not load library /Applications/Unity/Hub/Editor/2020.3.26f1/Unity.app/Contents/Frameworks/Mono/lib/libAssets/Allegorithmic/Plugins/Substance/Substance Engine/Editor/SubstanceLink/libsubstance_link.dylib.bundle
+Fallback handler could not load library /Applications/Unity/Hub/Editor/2020.3.26f1/Unity.app/Contents/Frameworks/Mono/lib/libAssets/Allegorithmic/Plugins/Substance/Substance Engine/Editor/SubstanceLink/libsubstance_link.dylib
+Fallback handler could not load library /Applications/Unity/Hub/Editor/2020.3.26f1/Unity.app/Contents/Frameworks/Mono/lib/libAssets/Allegorithmic/Plugins/Substance/Substance Engine/Editor/SubstanceLink/libsubstance_link.dylib
+Fallback handler could not load library /Applications/Unity/Hub/Editor/2020.3.26f1/Unity.app/Contents/Frameworks/Mono/lib/libAssets/Allegorithmic/Plugins/Substance/Substance Engine/Editor/SubstanceLink/libsubstance_link.dylib.so
+Fallback handler could not load library /Applications/Unity/Hub/Editor/2020.3.26f1/Unity.app/Contents/Frameworks/Mono/lib/libAssets/Allegorithmic/Plugins/Substance/Substance Engine/Editor/SubstanceLink/libsubstance_link.dylib.bundle
+- Completed reload, in  2.739 seconds
+Domain Reload Profiling:
+	ReloadAssembly (2743ms)
+		BeginReloadAssembly (295ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (54ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (125ms)
+		EndReloadAssembly (2347ms)
+			LoadAssemblies (197ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (392ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (55ms)
+			SetupLoadedEditorAssemblies (1254ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (12ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (42ms)
+				BeforeProcessingInitializeOnLoad (163ms)
+				ProcessInitializeOnLoadAttributes (1004ms)
+				ProcessInitializeOnLoadMethodAttributes (31ms)
+				AfterProcessingInitializeOnLoad (1ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (34ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.71 ms, found 6 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2060 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 211.4 MB.
+System memory in use after: 211.5 MB.
+
+Unloading 58 unused Assets to reduce memory usage. Loaded Objects now: 2582.
+Total: 2.189000 ms (FindLiveObjects: 0.096959 ms CreateObjectMapping: 0.039959 ms MarkObjects: 2.026458 ms  DeleteObjects: 0.024583 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 390.100313 seconds.
+  path: Assets/Materials/rusted_painted_metal.sbsar
+  artifactKey: Guid(33e8e6a62265244069473667d1f5a147) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/rusted_painted_metal.sbsar using Guid(33e8e6a62265244069473667d1f5a147) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b003f4c06223d24f84b4a1fa8cf40064') in 0.651439 seconds 
+  Import took 0.654025 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 94.116819 seconds.
+  path: Assets/mirror_dirty.sbsar
+  artifactKey: Guid(56f2d7a4b225a40e68d72c3f675d8a90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/mirror_dirty.sbsar using Guid(56f2d7a4b225a40e68d72c3f675d8a90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '70ba745654ba51a745ace03ad02b4f0c') in 0.082600 seconds 
+  Import took 0.125723 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.697018 seconds.
+  path: Assets/Materials/mirror_dirty.sbsar
+  artifactKey: Guid(56f2d7a4b225a40e68d72c3f675d8a90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/mirror_dirty.sbsar using Guid(56f2d7a4b225a40e68d72c3f675d8a90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a20413fab8770621f0ca3a25eabd228c') in 0.051759 seconds 
+  Import took 0.054622 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 642.485047 seconds.
+  path: Assets/Materials/mottled_rust.sbsar
+  artifactKey: Guid(751b4dc7966c84641bc4b58d041f28da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/mottled_rust.sbsar using Guid(751b4dc7966c84641bc4b58d041f28da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dcc7c59b5ecd39472b00e703841a68b0') in 0.070395 seconds 
+  Import took 0.083108 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.836490 seconds.
+  path: Assets/Materials/dead_coral.sbsar
+  artifactKey: Guid(8691e5b72d623420897c85c0ea09201a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/dead_coral.sbsar using Guid(8691e5b72d623420897c85c0ea09201a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '856aa45d4c8b5e4c208333f7e4dbc117') in 0.066586 seconds 
+  Import took 0.070199 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.212380 seconds.
+  path: Assets/Materials/barnacle_rock.sbsar
+  artifactKey: Guid(aca5119e8f24147669374838c8af0919) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/barnacle_rock.sbsar using Guid(aca5119e8f24147669374838c8af0919) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6c0839e188c01a93212e1edf9b7a56cc') in 0.058257 seconds 
+  Import took 0.061994 seconds .
+

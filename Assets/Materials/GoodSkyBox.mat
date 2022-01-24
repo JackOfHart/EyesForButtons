@@ -79,5 +79,5 @@ Material:
     - _Bottom: {r: 0.9922952, g: 0.37150118, b: 0.2914133, a: 1}
     - _Color: {r: 0, g: 0, b: 0, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
-    - _Top: {r: 1, g: 0.5235849, b: 0.94645, a: 1}
+    - _Top: {r: 0.63590086, g: 0.7706823, b: 0.6700452, a: 1}
   m_BuildTextureStacks: []

@@ -132,7 +132,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: 20f79ada7260b4e12a0333b8aea807a7, type: 3}
       propertyPath: m_RootOrder
-      value: 1
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 20f79ada7260b4e12a0333b8aea807a7, type: 3}
       propertyPath: m_LocalPosition.x
@@ -369,7 +369,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 763f7fc861fec4ec094dda38bebd6b7b, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 10.111
+      value: 9.97
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 763f7fc861fec4ec094dda38bebd6b7b, type: 3}
       propertyPath: m_LocalPosition.y
@@ -407,6 +407,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 763f7fc861fec4ec094dda38bebd6b7b, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: -6465295006441776248, guid: 33e8e6a62265244069473667d1f5a147, type: 3}
+    - target: {fileID: -7511558181221131132, guid: 763f7fc861fec4ec094dda38bebd6b7b, type: 3}
+      propertyPath: m_Materials.Array.data[1]
+      value: 
+      objectReference: {fileID: 4845643109196757726, guid: aca5119e8f24147669374838c8af0919, type: 3}
     - target: {fileID: 919132149155446097, guid: 763f7fc861fec4ec094dda38bebd6b7b, type: 3}
       propertyPath: m_Name
       value: crystal_2ver_model_FBX
