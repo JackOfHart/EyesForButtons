@@ -217,3 +217,139 @@ Received Import Request.
 Start importing Assets/uploads_files_690769_Aloe.FBX using Guid(c810bb27ac82d43018f27aa61d1defc8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '56787eefd0d66c3482ee0ba0563f31d0') in 0.054485 seconds 
   Import took 0.059265 seconds .
 
+========================================================================
+Received Import Request.
+  Time since last request: 456.990978 seconds.
+  path: Assets/3DModels/Falling Shards/uploads_files_3349086_Crystal_Set_3/Crystal_1
+  artifactKey: Guid(a339f991ffbb8451b8b04cfa694750d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3DModels/Falling Shards/uploads_files_3349086_Crystal_Set_3/Crystal_1 using Guid(a339f991ffbb8451b8b04cfa694750d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a43378b01c30465c0d7abe3c092c37cf') in 0.001670 seconds 
+  Import took 0.013333 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.320047 seconds.
+  path: Assets/3DModels/Falling Shards/uploads_files_3349086_Crystal_Set_3/Crystal_1/crystal_1_tex
+  artifactKey: Guid(121da3967b9d3402c8522b45533851b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3DModels/Falling Shards/uploads_files_3349086_Crystal_Set_3/Crystal_1/crystal_1_tex using Guid(121da3967b9d3402c8522b45533851b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '17f27ee3c22a94505439410f3c12f18b') in 0.001384 seconds 
+  Import took 0.006351 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.933371 seconds.
+  path: Assets/3DModels/Falling Shards/uploads_files_3349086_Crystal_Set_3/Crystal_10
+  artifactKey: Guid(e40719f0bea4d452dac3f9a1c0dfe21e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3DModels/Falling Shards/uploads_files_3349086_Crystal_Set_3/Crystal_10 using Guid(e40719f0bea4d452dac3f9a1c0dfe21e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '741b17373a9e69fc0e2fb2e776d217c8') in 0.001363 seconds 
+  Import took 0.006202 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.326478 seconds.
+  path: Assets/3DModels/Falling Shards/uploads_files_3349086_Crystal_Set_3/Crystal_10/crystal_10_tex
+  artifactKey: Guid(8a6ba5b31e7bf408e82721d77bdbb239) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3DModels/Falling Shards/uploads_files_3349086_Crystal_Set_3/Crystal_10/crystal_10_tex using Guid(8a6ba5b31e7bf408e82721d77bdbb239) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9597e156cf60b272c5f8bfa0cdbf0009') in 0.005921 seconds 
+  Import took 0.010764 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 197.706452 seconds.
+  path: Assets/3DModels/Falling Shards/uploads_files_3349086_Crystal_Set_3/Crystal_1/crystal_1.obj
+  artifactKey: Guid(fed2e853299aa448b8c1a898fd062550) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3DModels/Falling Shards/uploads_files_3349086_Crystal_Set_3/Crystal_1/crystal_1.obj using Guid(fed2e853299aa448b8c1a898fd062550) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cf6f7060f3d68bd975e55dfd98050b4a') in 0.791113 seconds 
+  Import took 0.798120 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 36.182792 seconds.
+  path: Assets/Scenes/Claire.unity
+  artifactKey: Guid(c667391b6f4bb48bdae228d100f82124) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Claire.unity using Guid(c667391b6f4bb48bdae228d100f82124) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b203aae11744dbbd1ab72346ede35b89') in 0.002482 seconds 
+  Import took 0.005592 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 101.192877 seconds.
+  path: Assets/3DModels/Falling Shards/uploads_files_3349086_Crystal_Set_3/Crystal_1/crystal_1.fbx
+  artifactKey: Guid(20f79ada7260b4e12a0333b8aea807a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3DModels/Falling Shards/uploads_files_3349086_Crystal_Set_3/Crystal_1/crystal_1.fbx using Guid(20f79ada7260b4e12a0333b8aea807a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '30797d61d5d086ac76a4ba99fc8bf6ad') in 0.342437 seconds 
+  Import took 0.346272 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 46.809076 seconds.
+  path: Assets/3DModels/Falling Shards/uploads_files_3349086_Crystal_Set_3/Crystal_1/crystal_1.blend
+  artifactKey: Guid(a3892b954ec8e4d5088a88c4d0a4e5c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3DModels/Falling Shards/uploads_files_3349086_Crystal_Set_3/Crystal_1/crystal_1.blend using Guid(a3892b954ec8e4d5088a88c4d0a4e5c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '22e5992378854cc2d03165ea1d6db08c') in 0.395061 seconds 
+  Import took 0.401159 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 14.137136 seconds.
+  path: Assets/3DModels/Falling Shards/uploads_files_3349086_Crystal_Set_3/Crystal_2/crystal_2.blend
+  artifactKey: Guid(608ff36df224f40d3bcde6d6b8294e67) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3DModels/Falling Shards/uploads_files_3349086_Crystal_Set_3/Crystal_2/crystal_2.blend using Guid(608ff36df224f40d3bcde6d6b8294e67) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '498b246e9d1b302bfe2fb279514d0dd4') in 0.002997 seconds 
+  Import took 0.005803 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.704725 seconds.
+  path: Assets/3DModels/Falling Shards/uploads_files_3349086_Crystal_Set_3/Crystal_3/crystal_3.blend
+  artifactKey: Guid(faa23cdba13194aa3a9effa0d981f73d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3DModels/Falling Shards/uploads_files_3349086_Crystal_Set_3/Crystal_3/crystal_3.blend using Guid(faa23cdba13194aa3a9effa0d981f73d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd7f70bc866b1159362644184685818d4') in 0.004540 seconds 
+  Import took 0.009071 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.651063 seconds.
+  path: Assets/3DModels/Falling Shards/uploads_files_3349086_Crystal_Set_3/Crystal_4/crystal_4.blend
+  artifactKey: Guid(e182388d5ead340618662f589c498d48) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3DModels/Falling Shards/uploads_files_3349086_Crystal_Set_3/Crystal_4/crystal_4.blend using Guid(e182388d5ead340618662f589c498d48) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5f7bbfc60e6eed2004104e2d3f326e22') in 0.004815 seconds 
+  Import took 0.009545 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 14.771815 seconds.
+  path: Assets/3DModels/Falling Shards/uploads_files_3349086_Crystal_Set_3/Crystal_5/crystal_5.blend
+  artifactKey: Guid(5b0d3e0dbea3d4336a907560660f5bf5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3DModels/Falling Shards/uploads_files_3349086_Crystal_Set_3/Crystal_5/crystal_5.blend using Guid(5b0d3e0dbea3d4336a907560660f5bf5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '73cf4e74c026932d36b0f75da6553ef2') in 0.004783 seconds 
+  Import took 0.009703 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.112766 seconds.
+  path: Assets/3DModels/Falling Shards/uploads_files_3349086_Crystal_Set_3/Crystal_6/crystal_6.blend
+  artifactKey: Guid(6226f9c2a2ada4e5597e66958a6c1f1b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3DModels/Falling Shards/uploads_files_3349086_Crystal_Set_3/Crystal_6/crystal_6.blend using Guid(6226f9c2a2ada4e5597e66958a6c1f1b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5e005bd51e9d20e2321bca4ece5b1da5') in 0.004743 seconds 
+  Import took 0.009383 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.117199 seconds.
+  path: Assets/3DModels/Falling Shards/uploads_files_3349086_Crystal_Set_3/Crystal_7/crystal_7.blend
+  artifactKey: Guid(6b445a16bddb24be59ab5245e7d22811) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3DModels/Falling Shards/uploads_files_3349086_Crystal_Set_3/Crystal_7/crystal_7.blend using Guid(6b445a16bddb24be59ab5245e7d22811) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '82fe0520e22a487977b4de00ba4227d5') in 0.004809 seconds 
+  Import took 0.009804 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.996506 seconds.
+  path: Assets/3DModels/Falling Shards/uploads_files_3349086_Crystal_Set_3/Crystal_8/crystal_8.blend
+  artifactKey: Guid(f8ba03a825af9491aba0ed21903ac9f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3DModels/Falling Shards/uploads_files_3349086_Crystal_Set_3/Crystal_8/crystal_8.blend using Guid(f8ba03a825af9491aba0ed21903ac9f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8e1967e7ceac1e233809e8b32d50d777') in 0.002998 seconds 
+  Import took 0.005890 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 14.004922 seconds.
+  path: Assets/3DModels/Falling Shards/uploads_files_3349086_Crystal_Set_3/Crystal_9/crystal_9.blend
+  artifactKey: Guid(dab5ececb8c5e4d71b64da7ba6b6c616) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3DModels/Falling Shards/uploads_files_3349086_Crystal_Set_3/Crystal_9/crystal_9.blend using Guid(dab5ececb8c5e4d71b64da7ba6b6c616) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aa1a3c0f6252db2bd5ffd746e00f208e') in 0.005122 seconds 
+  Import took 0.009884 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.224688 seconds.
+  path: Assets/3DModels/Falling Shards/uploads_files_3349086_Crystal_Set_3/Crystal_10/crystal_10.blend
+  artifactKey: Guid(a56aee0f98c2242298d339d89e36fbd8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3DModels/Falling Shards/uploads_files_3349086_Crystal_Set_3/Crystal_10/crystal_10.blend using Guid(a56aee0f98c2242298d339d89e36fbd8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '15a0c0304721964fd6725dd4eec16d37') in 0.005073 seconds 
+  Import took 0.009873 seconds .
+
